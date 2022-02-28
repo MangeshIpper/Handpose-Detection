@@ -1,3 +1,33 @@
+# Implement real-time hand position detection
+
+### 1. Install dependencies 
+##### npm install @tensorflow/tfjs @tensorflow-models/handpose react-webcam
+
+### 2. Import dependencies 
+##### import React, { useRef } from "react";
+##### import * as tf from "@tensorflow/tfjs";
+##### import * as handpose from "@tensorflow-models/handpose";
+##### import Webcam from "react-webcam";
+
+### 3. Setup webcam and canvas 
+
+### 4. Define references to those 
+
+### 5. Load handpose 
+
+### 6. Detect function 
+
+### 7. Drawing utilities 
+
+### 8. Draw functions 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
